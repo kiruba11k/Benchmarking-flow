@@ -1,0 +1,37 @@
+{
+  "page_contains_valid_test": true,
+  "questions": [
+    {
+      "question_number": "1",
+      "subject": "Tamil",
+      "main_topic": "ஆகுபெயர்",
+      "student_answer_transcription": "1) வேட்கை - வேட்கை என்னும் மரத்தை குறிக்கும் (பொருளாகுபெயர்) வேங்கை + மழை - வேங்கைமரத்தை குறிக்கும் போது நின்றது (தொழிலாகுபெயர்)",
+      "teacher_marks_assigned": 2,
+      "max_marks_possible": 2
+    },
+    {
+      "question_number": "2",
+      "subject": "Tamil",
+      "main_topic": "ஐம்பெருங்காப்பியங்கள்",
+      "student_answer_transcription": "2) எஞ்சியுள்ள ஐம்பெருங்காப்பியங்கள் : * சீவக சிந்தாமணி * வளையாபதி * குண்டலகேசி",
+      "teacher_marks_assigned": 2,
+      "max_marks_possible": 2
+    },
+    {
+      "question_number": "3",
+      "subject": "Tamil",
+      "main_topic": "இரு மொழியிடை உரையாடல்",
+      "student_answer_transcription": "3) இரு மொழியிடை - மொழிபெயர்ப்பான இருமொழியிடை என்பது இரண்டு மொழி இடையே நடைபெறும் உரையாடல் என்பதாகும். (எ.கா) காலை சுடரால் ஒரு நிகழ்வினில் திரு. வி.க. இளங்கோவடிகள் சொற்பொழிவில் பேசிய இராவணன், அகிலா மனையினில் பேசுகின்றனர். அப்பொழுது அவர் இருமொழியிடை உரையாடலை பயன்படுத்தினார்.",
+      "teacher_marks_assigned": 2,
+      "max_marks_possible": 2
+    },
+    {
+      "question_number": "4",
+      "subject": "Tamil",
+      "main_topic": "சுற்றுச்சூழல் விழிப்புணர்வு",
+      "student_answer_transcription": "4) * இயற்கையை அழகோடு - தூய காற்றை சுவாசிப்போம் * மரம் வளர்ப்போம் - நல்ல காற்றை பெறுவோம். * நெகிழியை நாம் பயன்பாட்டை குறைப்போம்",
+      "teacher_marks_assigned": 2,
+      "max_marks_possible": 2
+    }
+  ]
+}
